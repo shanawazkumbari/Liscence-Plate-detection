@@ -6,3 +6,4 @@ This project is based upon object detection and as the names suggests we are goi
  - The Liscence Plate Detection.ipynb file contains the main python code where in all the pre processing and the model training is done. The model is then saved in json format.
  - The deployment_final_liscence_plate.ipynb code contains the deployment code where in the project is deployed to web using Flask and ngrok.
  - The static and templates folder contain the necessary files for deployment
+ - For data you can download car images from google or click your own photos.
