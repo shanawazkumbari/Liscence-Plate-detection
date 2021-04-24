@@ -7,3 +7,5 @@ This project is based upon object detection and as the names suggests we are goi
  - The deployment_final_liscence_plate.ipynb code contains the deployment code where in the project is deployed to web using Flask and ngrok.
  - The static and templates folder contain the necessary files for deployment
  - For data you can download car images from google or click your own photos.
+ - The deployment_screenshots folder screens of web page deployed
+ - The results folder contains of predicted bounding boxes images
